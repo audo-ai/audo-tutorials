@@ -1,0 +1,3 @@
+[submodule "react-denoising-app"]
+	path = react-denoising-app
+	url = https://github.com/audo-ai/react-denoising-app.git
